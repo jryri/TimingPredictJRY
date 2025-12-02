@@ -1,0 +1,3 @@
+[submodule "flute3"]
+	path = flute3
+	url = https://github.com/The-OpenROAD-Project-Attic/flute3.git
